@@ -338,9 +338,11 @@ entry(
       "2024 - now",
       "Formazione Cybersecurity Avanzata",
       [
-        "Corso PEN-200 (OSCP): Offensive Security Certified Professional",
-        "Corso PEN-103 (KLCP): Kali Linux Certified Professional",
-        "Corso PEN-210 (OSWP): Offensive Security Wireless Professional"
+        #list(
+          "Corso PEN-200 (OSCP): Offensive Security Certified Professional",
+          "Corso PEN-103 (KLCP): Kali Linux Certified Professional",
+          "Corso PEN-210 (OSWP): Offensive Security Wireless Professional"
+        )
       ],
     )
 
@@ -349,9 +351,11 @@ entry(
       "2024 – now",
       "Programmazione Videogiochi – 2° Anno",
       [
-        "Entity Component System (ECS), Python",
-        "Sviluppo con Unity e Unreal Engine (Blueprint e C++)",
-        "Networking per videogiochi", "TCP/UDP"
+         #list(
+          "Entity Component System (ECS), Python",
+          "Sviluppo con Unity e Unreal Engine (Blueprint e C++)",
+          "Networking per videogiochi", "TCP/UDP"
+        )
       ],
     )
 
@@ -360,9 +364,11 @@ entry(
       "2021 – 2022",
       "Programmazione Videogiochi – 1° Anno",
       [
-        "C\# (Fondamenti e Sintassi), Engine AIV Fast2D/Fast3D, FSM",
-        "Fisica 2D, Trigonometria e Matematica Vettoriale",
-        "Algoritmi di Path Finding, XML File I/O"
+       #list(
+          "C\# (Fondamenti e Sintassi), Engine AIV Fast2D/Fast3D, FSM",
+          "Fisica 2D, Trigonometria e Matematica Vettoriale",
+          "Algoritmi di Path Finding, XML File I/O"
+        )
       ],
     )
 
@@ -370,14 +376,20 @@ entry(
       right: [*\@Angular Certification*],
       "Ago 2024",
       "Certified Senior Angular Developer",
-      [Certificazione Senior Angular 18],
+      [
+       #list(
+          "Certificazione Senior Angular 18"
+        )
+      ],
     )
     entry(
       right: [*\@Corso Rust* – Udemy],
       "Ott 2023",
       "Fondamenti e programmazione di basso livello",
       [
-        "Trait, Macro, gestione della memoria, server TCP"
+        #list(
+          "Trait, Macro, gestione della memoria, server TCP"
+        )
       ],
     )
 
@@ -386,7 +398,9 @@ entry(
       "Mag 2022",
       "Fondamenti di programmazione C++",
       [
-        "Compilatori, puntatori, aritmetica a basso livello"
+       #list(
+          "Compilatori, puntatori, aritmetica a basso livello"
+        )
       ],
     )
 
@@ -395,7 +409,9 @@ entry(
       "Nov 2021",
       "Sviluppo App Ibride con Ionic e Angular 2+",
       [
-        "CLI, componenti base, Capacitor e Cordova"
+        #list(
+          "CLI, componenti base, Capacitor e Cordova"
+        )
       ],
     )
 
@@ -404,7 +420,9 @@ entry(
       "Ott 2021",
       "Sviluppo Frontend con Angular",
       [
-        "Componenti, Databinding, Directives, RxJS, HTTP, Interceptors, Guards"
+        #list(
+          "Componenti, Databinding, Directives, RxJS, HTTP, Interceptors, Guards"
+        )
       ],
     )
 
@@ -413,7 +431,9 @@ entry(
       "Ott 2021",
       "Fondamenti di TypeScript",
       [
-        "Classi, Interfacce, Decorator, Generics"
+        #list(
+          "Classi, Interfacce, Decorator, Generics"
+        )
       ],
     )
 
@@ -422,7 +442,9 @@ entry(
       "Ott 2021",
       "Fondamenti Java SE / EE",
       [
-        "Servlet, JSP, Tomcat, JDBC, HTML/CSS, MySQL"
+        #list(
+          "Servlet, JSP, Tomcat, JDBC, HTML/CSS, MySQL"
+        )
       ],
     )
     entry(
@@ -430,8 +452,10 @@ entry(
       "2016 – 2021",
       "Diploma di Istruzione Superiore",
       [
-        "Indirizzo: Alberghiero",
-        "Voto finale: 97/100"
+        #list(
+          "Indirizzo: Alberghiero",
+          "Voto finale: 97/100"
+        )
       ],
     )
   },
