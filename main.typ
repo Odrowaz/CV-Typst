@@ -371,7 +371,7 @@ entry(
       "Programmazione Videogiochi – 1° Anno",
       [
        #list(
-          "C\# (Fondamenti e Sintassi), Engine AIV Fast2D/Fast3D, FSM",
+          "C# (Fondamenti e Sintassi), Engine AIV Fast2D/Fast3D, FSM",
           "Fisica 2D, Trigonometria e Matematica Vettoriale",
           "Algoritmi di Path Finding, XML File I/O"
         )
