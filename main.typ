@@ -32,6 +32,11 @@
         )
         entry(
           none,
+          "AIV Video Game Programming 2 Anno",
+          []
+        )
+        entry(
+          none,
           "AIV Video Game Programming 1 Anno",
           []
         )
@@ -348,13 +353,14 @@ entry(
 
      entry(
       right: [*\@AIV – Accademia Italiana Videogiochi*],
-      "2024 – now",
+      "2024 – 2025",
       "Programmazione Videogiochi – 2° Anno",
       [
          #list(
           "Entity Component System (ECS), Python",
           "Sviluppo con Unity e Unreal Engine (Blueprint e C++)",
-          "Networking per videogiochi", "TCP/UDP"
+          "Networking per videogiochi", "TCP/UDP",
+          "Unity 3D"
         )
       ],
     )
