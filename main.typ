@@ -42,7 +42,7 @@
         )
         entry(
           "Linguaggi",
-          "Java, C#, JavaScript, TypeScript, C, C++, Rust, Python, Bash",
+          "Java, C#, JavaScript, TypeScript, C, C++, Rust, Python, Bash, ASM 6502",
           []
         )
       },
@@ -231,6 +231,20 @@
   "Professional Experience",
   {
     entry(
+  right: [*\@AIV – Accademia Italiana Videogiochi*],
+  "2024 - now",
+  "Programmatore UE5 / Referente Sviluppo Codice",
+  [
+    #list(
+      "Sviluppo del videogioco *Sine Qua Non* (codename) in Unreal Engine 5.5.4.",
+      "Referente lato sviluppo: interfaccia diretta con il team di Game Design per definizione delle meccaniche e delle specifiche tecniche.",
+      "Implementazione della logica di gioco in C++ e Blueprint, integrazione sistemi core e architettura component-based.",
+      "Collaborazione con gli altri reparti (Game Design, Art) per allineamento su pipeline, flussi di lavoro e milestone di release."
+    )
+  ],
+)
+
+    entry(
   right: [*\@XCConsulting*],
   "2024 - now",
   "Fullstack Lead Developer / Referente Cliente",
@@ -238,13 +252,15 @@
     #list(
       "Gestione completa del cliente: comunicazione, raccolta requisiti, analisi tecnica e stime tempi/risorse per lo sviluppo, con coordinamento interno.",
       "Sviluppo da zero di un sistema di analisi dati in Python con Polars per l’elaborazione di file CSV e generazione output in formato Parquet su S3.",
-      "Riscrittura dell’intera webapp frontend in Next.js per ottimizzazione UX, mantenendo compatibilità con la precedente infrastruttura del cliente.",
+      "Manutenzione e gestione evolutive webapp frontend in Next.js.",
       "Manutenzione e rifattorizzazione del backend Quarkus, con introduzione di una nuova gestione DB per l'integrazione con S3.",
       "Realizzazione di due microservizi: uno Spring Boot per l’estrazione dati da DB con output CSV, e uno ibrido Java/Node.js per la generazione automatica di report PDF contenenti grafici analitici in PNG.",
-      "Responsabile tecnico dell’intero stack, supervisione continua e supporto evolutivo post-release."
+      "Responsabile tecnico dell’intero stack, supervisione continua e supporto evolutivo post-release.",
+      "Attualmente Project Manager e Lead Developer su due istanze dell'applicativo: gestione e coordinamento di un secondo progetto 'gemello' adattato e customizzato per clienti retail differenti."
     )
   ],
 )
+
 linebreak()
     entry(
       right: [*\@Reply-Whitehall*],
@@ -338,6 +354,18 @@ entry(
 #section(
   "Educazione",
   {
+    entry(
+      right: [*\@AIV – Accademia Italiana Videogiochi*],
+      "2025 – now",
+      "Programmazione Videogiochi – 3° Anno",
+      [
+         #list(
+          "ASM 6502-MIPS",
+          "C/C++",
+          "C++ Unreal Engine 5",
+        )
+      ],
+    )
     entry(
       right: [*\@Offensive Security*],
       "2024 - now",
