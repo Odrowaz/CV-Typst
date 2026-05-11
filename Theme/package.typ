@@ -1,5 +1,5 @@
 #let default-theme = (
-  margin: 22pt,
+  margin: 20pt,
   v-margin: 10pt,
   font: "Inria Sans",
   font-size: 11pt,
@@ -12,7 +12,7 @@
 
   main-accent-color: none, // inherit
   main-body-color: none, // inherit
-  main-width: 5fr,
+  main-width: 5.6fr,
   main-gutter-width: 64pt,
 
   aside-accent-color: none, // inherit
@@ -166,7 +166,7 @@
             )
           },
           context {
-            set text(fill: orange.darken(10%), size: 9.5pt)
+            set text(fill: orange.darken(10%), size: 9pt)
             right
           },
         )
