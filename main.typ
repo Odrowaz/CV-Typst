@@ -204,7 +204,7 @@
         )
         entry(
           "Telefono",
-          link("https://wa.me/85212345678", "+39 3283693777"),
+          link("https://wa.me/393283693777", "+39 3283693777"),
           none,
         )
         entry(
@@ -214,7 +214,7 @@
         )
         
         entry(
-          right: [_Madre Lingue_],
+          right: [_Madrelingua_],
           "Fluente",
           "🇮🇹 Italiano",
           none,
@@ -245,7 +245,7 @@
 )
 
     entry(
-  right: [*\@XCConsulting*],
+  right: [*\@Next Direction - XCConsulting*],
   "2024 - now",
   "Fullstack Lead Developer / Referente Cliente",
   [
@@ -263,7 +263,7 @@
 
 linebreak()
     entry(
-      right: [*\@Reply-Whitehall*],
+      right: [*\@Next Direction - Reply-Whitehall*],
       "2023 - now",
       "Senior Angular/Fullstack - INAIL",
       [
@@ -286,7 +286,7 @@ linebreak()
     #list(
       "Ideazione e sviluppo completo di un applicativo di Cyber Sicurezza con funzioni da micro-SIEM per il monitoraggio e l’analisi degli accessi applicativi.",
       "Realizzazione di un modulo Identity Provider con autenticazione a due fattori (TOTP) e schermata di login personalizzata.",
-      "Sviluppo del backend core in Rust (Rocket.rs) e integrazione di QuickJS per la gestione dinamica delle regole di sicurezza.",
+      "Sviluppo della libreria core JNI in Rust e integrazione di QuickJS per la gestione dinamica delle regole di sicurezza.",
       "Creazione del modulo IdP in Java con Spring Boot e PostgreSQL come database relazionale.",
       "Integrazione di Elasticsearch per la gestione e ricerca avanzata dei log di accesso."
     )
@@ -308,7 +308,7 @@ entry(
 )
 linebreak()
 entry(
-  right: [*\@Cy4Gate*],
+  right: [*\@Next Direction - Cy4Gate*],
   "2022 - 2023",
   "Senior Fullstack Developer – Cyber Security Platform",
   [
@@ -337,7 +337,7 @@ entry(
 )
 linebreak()
 entry(
-  right: [*\@Spindox*],
+  right: [*\@Next Direction - Spindox*],
   "2021 - 2022",
   "Frontend Developer – App gestione account SIAE",
   [
@@ -494,4 +494,3 @@ entry(
     )
   },
 )
-
